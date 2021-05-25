@@ -1,9 +1,7 @@
-This is the repository to the paper: 
+This is the data repository proposed in the paper:
 
 # Online Misogyny
-## Annotated Corpus in Danish from Twitter, Facebook, Reddit
-### published at ACL 2021.
-
+## Annotated Corpus in Danish from Twitter, Facebook, Reddit published at ACL 2021.
 
 
 
@@ -15,7 +13,7 @@ Please cite:
 
 
 
-Please fill in **[this form](https://forms.gle/MPdV8FG8EUuS1MdS6) to get access.
+Please fill in [this form](https://forms.gle/MPdV8FG8EUuS1MdS6) to get access.
 
 
 The repository exists of:
