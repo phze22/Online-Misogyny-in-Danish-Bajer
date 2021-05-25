@@ -1,7 +1,8 @@
 This is the repository to the paper: 
 
-# Online Misogyny: Annotated Corpus in Danish from Twitter, Facebook, Reddit
-## published at ACL 2021.
+# Online Misogyny: 
+## Annotated Corpus in Danish from Twitter, Facebook, Reddit
+### published at ACL 2021.
 
 For more information, revise our paper:
 
