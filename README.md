@@ -45,4 +45,5 @@ The repository exists of:
 </ul>
 </ul>
 
-By filling the form you will get access to *data* and *annotation*. Please state in the comment field if you would like to have access to the other directories as well.
+By filling the form you will get access to *data* and *annotation*. 
+Please state in the comment field if you would like to have access to the other directories as well.
