@@ -1,18 +1,19 @@
 This is the data repository proposed in the paper:
 
-# Online Misogyny
+# Annotating Online Misogyny
 ## Annotated Corpus in Danish from Twitter, Facebook, Reddit published at ACL 2021.
 
 
 
 For more information, revise our paper:
 
+
 Please cite:
 
 
 
 
-
+Data access for research purposes upon request:
 Please fill in [this form](https://forms.gle/MPdV8FG8EUuS1MdS6) to get access.
 
 
@@ -31,17 +32,15 @@ The repository exists of:
 </ul>
 <li>additional data</li>
 <ul>
-<li>Danish slurs: extending list by Sigurbergsson on Danish known slurs (free Google search)</li>
-<li>Translations of posts from IberEval/Evalita (English) to Danish</li>
-<li>subset_stereotypes: transforming English stereotypical posts to Danish stereotypes (total 30 posts, tasks turned out to be too challenging)</li>
+<li>Danish slurs: extending Reddit survey list from Sigurbergsson (http://www.derczynski.com/itu/docs/Multilingual%20hate%20speech%20detection.pdf) on Danish known slurs (free Google search for annotators) </li>
+<li>Translations of posts from IberEval/Evalita (English) to Danish </li>
+<li> counter-examples stereotypes: transforming Danish stereotypical posts to their counter-example (total ~30 posts, tasks turned out to be too challenging)</li>
 </ul>
 <li>additional information from the annotation task</li>
 <ul>
 <li>feedback annotators and motivation</li>
-<li>disagreement discussions</li>
-<li>flagged content discussions</li>
 </ul>
 </ul>
 
 By filling the form you will get access to *data* and *annotation*. 
-Please state in the comment field if you would like to have access to the other directories as well.
+Please state in the comment field if you would like to have access to other directories as well.
