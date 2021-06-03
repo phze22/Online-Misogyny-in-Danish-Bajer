@@ -32,7 +32,7 @@ The repository exists of:
 </ul>
 <li>additional data</li>
 <ul>
-<li>Danish slurs: extending Reddit survey list [from Sigurbergsson](http://www.derczynski.com/itu/docs/Multilingual%20hate%20speech%20detection.pdf) on Danish known slurs (free Google search for annotators) </li>
+<li>Danish slurs: extending Reddit survey list [from Sigurbergsson](https://arxiv.org/abs/1908.04531) on Danish known slurs (free Google search for annotators) </li>
 <li>Translations of posts from IberEval/Evalita (English) to Danish </li>
 <li> counter-examples stereotypes: transforming Danish stereotypical posts to their counter-example (total ~30 posts, tasks turned out to be too challenging)</li>
 </ul>
