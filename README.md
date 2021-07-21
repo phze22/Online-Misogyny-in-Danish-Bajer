@@ -5,11 +5,10 @@ This is the data repository proposed in the paper:
 
 
 
-For more information, revise our paper:
+For more information, revise our paper [here](http://www.derczynski.com/papers/annotating_online_misogyny.pdf)
 
 
-Please cite:
-
+Please cite: will be added after publishing in ACL Anthology after conference
 
 
 
