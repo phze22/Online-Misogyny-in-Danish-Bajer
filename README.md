@@ -30,7 +30,7 @@ The repository exists of:
 </ul>
 <li>additional data</li>
 <ul>
-<li>Danish slurs: extending Reddit survey list from Sigurbergsson, Derczynski, 2020 <https://aclanthology.org/2020.lrec-1.430/> on Danish known slurs (free Google search for annotators) </li>
+<li>Danish slurs: extending Reddit survey list from Sigurbergsson, Derczynski* on Danish known slurs (free Google search for annotators) </li>
 <li>Translations of posts from IberEval/Evalita (English) to Danish </li>
 <li> counter-examples stereotypes: transforming Danish stereotypical posts to their counter-example (total ~30 posts, tasks turned out to be too challenging)</li>
 </ul>
@@ -44,3 +44,7 @@ By filling the form you will get access to *data* and *annotation*.
 Please state in the comment field if you would like to have access to other directories as well.
 
 Lastly, feel free to reach out regarding any enquiries around the project.
+
+*Sigurbergsson, G.I., Derczynski, L., 2020. Offensive Language and Hate Speech Detection for Danish, in: Proceedings of the 12th Language Resources and Evaluation Conference. Presented at the LREC 2020, European Language Resources Association, Marseille, France, pp. 3498–3508.
+
+
