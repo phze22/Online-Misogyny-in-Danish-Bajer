@@ -11,7 +11,6 @@ For more information, revise our paper [here](http://www.derczynski.com/papers/a
 Please cite: will be added after publishment in ACL Anthology
 
 
-
 Data access for research purposes upon request:
 Please fill in [this form](https://forms.gle/MPdV8FG8EUuS1MdS6) to get access.
 
@@ -43,3 +42,5 @@ The repository exists of:
 
 By filling the form you will get access to *data* and *annotation*. 
 Please state in the comment field if you would like to have access to other directories as well.
+
+Lastly, feel free to reach out regarding any enquiries around the project.
