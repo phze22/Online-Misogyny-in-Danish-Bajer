@@ -5,11 +5,11 @@ This is the data repository proposed in the paper:
 
 
 
-For more information, revise our paper [here](http://www.derczynski.com/papers/annotating_online_misogyny.pdf)
+For more information, see the paper [here](http://www.derczynski.com/papers/annotating_online_misogyny.pdf)
 
 
-Data access for research purposes upon request:
-Please fill in [this form](https://forms.gle/MPdV8FG8EUuS1MdS6) to get access.
+Data access for research purposes:
+Please fill in [this form](https://forms.gle/MPdV8FG8EUuS1MdS6) to get submit a request.
 
 
 The repository exists of:
@@ -37,8 +37,8 @@ The repository exists of:
 </ul>
 </ul>
 
-By filling the form you will get access to *data* and *annotation*. 
-Please state in the comment field if you would like to have access to other directories as well.
+By filling the form you submit a request for access to *data* and *annotation*. 
+Please state in the comment field if you would like more.
 
 Lastly, feel free to reach out regarding any enquiries around the project.
 
@@ -51,16 +51,13 @@ Zeinert, P., Inie, N., Derczynski, L., 2021. Annotating Online Misogyny, in: Pro
 @inproceedings{zeinert_annotating_2021,
 	address = {Online},
 	title = {Annotating {Online} {Misogyny}},
-	url = {https://aclanthology.org/2021.acl-long.247},
-	abstract = {Online misogyny, a category of online abusive language, has serious and harmful social consequences. Automatic detection of misogynistic language online, while imperative, poses complicated challenges to both data gathering, data annotation, and bias mitigation, as this type of data is linguistically complex and diverse. This paper makes three contributions in this area: Firstly, we describe the detailed design of our iterative annotation process and codebook. Secondly, we present a comprehensive taxonomy of labels for annotating misogyny in natural written language, and finally, we introduce a high-quality dataset of annotated posts sampled from social media posts.},
-	urldate = {2021-07-27},
 	booktitle = {Proceedings of the 59th {Annual} {Meeting} of the {Association} for {Computational} {Linguistics} and the 11th {International} {Joint} {Conference} on {Natural} {Language} {Processing} ({Volume} 1: {Long} {Papers})},
 	publisher = {Association for Computational Linguistics},
 	author = {Zeinert, Philine and Inie, Nanna and Derczynski, Leon},
 	month = aug,
 	year = {2021},
 	pages = {3181--3197},
-	file = {Full Text PDF:/Users/phze/Zotero/storage/DKAIWVYG/Zeinert et al. - 2021 - Annotating Online Misogyny.pdf:application/pdf},
+	doi = {http://dx.doi.org/10.18653/v1/2021.acl-long.247}
 }
 
 
