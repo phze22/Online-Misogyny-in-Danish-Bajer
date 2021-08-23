@@ -1,16 +1,20 @@
-This is the data repository proposed in the paper:
-
 # Annotating Online Misogyny
-## Annotated Corpus in Danish sampled from Twitter, Facebook, Reddit published at ACL 2021.
+
+This is the repository presented in the paper "Annotating Online Misogyny" from ACL 2021.
+
+Annotated Corpus in Danish sampled from Twitter, Facebook, Reddit.
+
+For more information, see the [stromberg.ai/publication/aom](https://stromberg.ai/publication/aom/).
 
 
+### Data access:
 
-For more information, see the paper [here](http://www.derczynski.com/papers/annotating_online_misogyny.pdf)
+Access to the data can be granted under NDA for research purposes.
+Please fill in [this form](https://forms.gle/MPdV8FG8EUuS1MdS6) to submit a request.
 
+By filling the form you submit a request for access to *data* and *annotation*. 
 
-Data access for research purposes:
-Please fill in [this form](https://forms.gle/MPdV8FG8EUuS1MdS6) to get submit a request.
-
+### Repository details
 
 The repository exists of:
 
@@ -37,17 +41,18 @@ The repository exists of:
 </ul>
 </ul>
 
-By filling the form you submit a request for access to *data* and *annotation*. 
-Please state in the comment field if you would like more.
 
 Lastly, feel free to reach out regarding any enquiries around the project.
 
-*Sigurbergsson, G.I., Derczynski, L., 2020. Offensive Language and Hate Speech Detection for Danish, in: Proceedings of the 12th Language Resources and Evaluation Conference. Presented at the LREC 2020, European Language Resources Association, Marseille, France, pp. 3498–3508.
+## Referencing the work
 
+Please cite: 
 
-**Please cite: 
-Zeinert, P., Inie, N., Derczynski, L., 2021. Annotating Online Misogyny, in: Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers). Presented at the ACL-IJCNLP 2021, Association for Computational Linguistics, Online, pp. 3181–3197.**
+>  Zeinert, P., Inie, N., Derczynski, L., 2021. Annotating Online Misogyny, in: Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers). Presented at the ACL-IJCNLP 2021, Association for Computational Linguistics, Online, pp. 3181–3197.
 
+Bibtex:
+
+```
 @inproceedings{zeinert_annotating_2021,
 	address = {Online},
 	title = {Annotating {Online} {Misogyny}},
@@ -59,5 +64,4 @@ Zeinert, P., Inie, N., Derczynski, L., 2021. Annotating Online Misogyny, in: Pro
 	pages = {3181--3197},
 	doi = {http://dx.doi.org/10.18653/v1/2021.acl-long.247}
 }
-
-
+```
