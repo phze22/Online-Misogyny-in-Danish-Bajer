@@ -10,7 +10,7 @@ For more information, see the [stromberg.ai/publication/aom](https://stromberg.a
 ### Data access:
 
 Access to the data can be granted under NDA for research purposes.
-Please fill in [this form](https://forms.gle/MPdV8FG8EUuS1MdS6) to submit a request.
+Hugging Face is used to mediate access; apply at [strombergnlp/bajer_danish_misogyny](https://huggingface.co/datasets/strombergnlp/bajer_danish_misogyny).
 
 By filling the form you submit a request for access to *data* and *annotation*. 
 
